@@ -1,0 +1,20 @@
+{
+  "name": "webiste",
+  "description": "A dental website",
+  "main": "server.js",
+  "authors": [
+    "Nourhan Elkhatib"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "semantic": "^2.3.3"
+  }
+}
